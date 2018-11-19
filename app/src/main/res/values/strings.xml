@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UnoKochegarV2</string>
+    <string name="_2">ВК №2</string>
+    <string name="remarkText">ВНИМАНИЕ</string>
+    <string name="getDataFromDB">ВОССТАНОВИТЬ</string>
+    <string name="saveDataToDB">Сохранить</string>
+    <string name="dataTextInfo">дата последнего изменения</string>
+    <string name="_1">ВК №1</string>
+    <string name="_3">ВК №3</string>
+    <string name="_4">ВК №4</string>
+</resources>
